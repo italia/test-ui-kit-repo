@@ -29,3 +29,4 @@ jobs:
           artifacts: '*.fig,*.sketch'
           token: ${{ secrets.GITHUB_TOKEN }}
           allowUpdates: true
+          makeLatest: true
