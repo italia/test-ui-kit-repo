@@ -11,4 +11,3 @@ _🇮🇹 [Italian version](README.md)_
 ## 💙 How to contribute
 
 How to contribute (issues, resources ecc..)
-
